@@ -1,5 +1,5 @@
 # Demo
 
-examples...
+examples... of how to use GITHUB
 
 
