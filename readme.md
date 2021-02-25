@@ -6,7 +6,7 @@ Learning how to use GITHUB
 
 learning about some of the git commands
 
-git clone, git add, git commit, git status, git push, git pull, git init
+git clone, git add, git commit, git status, git push, git pull, git init, git remote add origin git@github..., git remote -v
 
 ### Creating and adding SSH
 
